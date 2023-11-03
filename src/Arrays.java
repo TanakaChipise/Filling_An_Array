@@ -7,6 +7,7 @@ public class Arrays {
 
         for (int element : Num) {
             System.out.println(element);
+
         }
     }
 }
